@@ -18,7 +18,6 @@ class bot(Client):
             api_id=api_id,
             api_hash=api_hash,
             bot_token=bot_token,
-            config_file=config_file,
             workers=16,
             plugins=plugins,
             workdir="./",

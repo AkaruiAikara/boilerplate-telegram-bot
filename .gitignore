@@ -124,3 +124,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 bot.ini
+
+# Session
+*.session
+*.session-journal
